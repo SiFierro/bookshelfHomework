@@ -1,0 +1,49 @@
+body {
+    display: block;    
+    padding: 15%;    
+    border: 3px solid rgb(219, 33, 33);
+    background-image: url(https://bit.ly/3SRbgx4);
+    background-size:cover;
+    padding-top: 0%;
+    
+     
+}
+
+#app{
+    font-size: 25px;
+    max-height: 45vh;
+    max-width: 100%;
+    overflow: scroll;
+    background-color: rgb(209, 117, 26);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    font-family: "Spooky Pixels", sans-serif;
+    font-size: 35px;
+    color: rgb(0, 0, 0);  
+       
+}
+
+.searchbar input{ 
+   
+    font-family: "Spooky Pixels", sans-serif;
+    font-size: 35px;    
+    background-color: rgba(228, 77, 22, 0.8);  
+    
+}
+
+.searchbar {
+    display: flex;
+    justify-content: center;
+    padding: 1ch;
+}
+
+.favoriteList {
+d
+
+}

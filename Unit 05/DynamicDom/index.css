@@ -1,0 +1,16 @@
+#bookMarkListTitle{
+    text-decoration: underline;
+}
+#bookMarkArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#bookMarkListItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
